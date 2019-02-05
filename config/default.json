@@ -1,3 +1,7 @@
 {
-  "secretKey": ""
+  "secretKey": "",
+  "dbHost": "",
+  "dbName": "",
+  "dbUser": "",
+  "dbPassword": ""
 }

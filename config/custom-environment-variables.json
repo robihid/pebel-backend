@@ -1,3 +1,7 @@
 {
-  "secretKey": "pebel_secretKey"
+  "secretKey": "pebel_secretKey",
+  "dbHost": "dbHost",
+  "dbName": "dbName",
+  "dbUser": "dbUser",
+  "dbPassword": "dbPassword"
 }
